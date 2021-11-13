@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Star Wars</string>
+    <string name="home">Home</string>
+    <string name="back_button">Back Button</string>
+    <string name="no_records_found">No Records Found</string>
+    <string name="planet_details">Planet Details</string>
+    <string name="name">Name</string>
+    <string name="orbital_period">Orbital Period</string>
+    <string name="gravity">Gravity</string>
+</resources>
